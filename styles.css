@@ -15,7 +15,7 @@
 	src: url('../fonts/Comfortaa/Comfortaa-Regular.woff') format('woff'), url('../fonts/Comfortaa/Comfortaa-Regular.ttf') format('truetype'), url('../fonts/Comfortaa/Comfortaa-Regular.svg') format('svg');
 }
 body {
-	background: #ededed url(images/bg-header.gif) repeat-x top center;
+	background: #ededed url(./images/bg-header.gif) repeat-x top center;
 	line-height: 1;
 	font-size: 14px;
 	font-family: Arial, Helvetica, sans-serif;
@@ -39,7 +39,7 @@ body {
 	width: 324px;
 }
 #header .section .logo a {
-	background: url(images/bg-logo.png) repeat-x top left;
+	background: url(/images/bg-logo.png) repeat-x top left;
 	color: #fff;
 	display: block;
 	font-family: 'Arimo-Bold';
